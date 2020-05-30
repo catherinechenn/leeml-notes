@@ -10,6 +10,7 @@
 
 ### 课程在线观看地址
 - bilibili：[李宏毅《机器学习》](https://www.bilibili.com/video/av59538266)
+- bilibili:李宏毅的GAN讲解 (https://www.bilibili.com/video/av59538266)
 
 # 目录
 - [P1 机器学习介绍](https://datawhalechina.github.io/leeml-notes/#/chapter1/chapter1)
