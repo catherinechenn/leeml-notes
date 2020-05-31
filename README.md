@@ -24,6 +24,7 @@ http://speech.ee.ntu.edu.tw/~tlkagk/index.html
 - [P6 梯度下降](https://datawhalechina.github.io/leeml-notes/#/chapter6/chapter6)
 - [P7 梯度下降（用AOE演示）](https://datawhalechina.github.io/leeml-notes/#/chapter7/chapter7)
 - [P8 梯度下降（用Minecraft演示）](https://datawhalechina.github.io/leeml-notes/#/chapter8/chapter8)
+  [补充: 梯度上升](https://www.jianshu.com/p/c7e642877b0e)
 - [P9 作业1-PM2.5预测](https://datawhalechina.github.io/leeml-notes/#/chapter9/chapter9)
 - [P10 概率分类模型](https://datawhalechina.github.io/leeml-notes/#/chapter10/chapter10)
 - [P11 logistic回归](https://datawhalechina.github.io/leeml-notes/#/chapter11/chapter11)
